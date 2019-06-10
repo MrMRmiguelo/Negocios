@@ -23,7 +23,7 @@ namespace _01___Rectangulo___EjercicioAcumulativo
         public MainWindow()
         {
             InitializeComponent();
-            Console.WriteLine("Rectangulo");
+            Console.WriteLine("01 - Ejercicio Rectangulo Clase");
         }
     }
 }
